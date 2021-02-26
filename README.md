@@ -1,1 +1,1 @@
-# Facial-Emotion-recognization-using-Python-andOpenCV
+# Facial-Emotion-recognition-using-Python-andOpenCV
